@@ -2,7 +2,7 @@
   <img width="250" height="200" src="https://www.icegif.com/wp-content/uploads/icegif-40.gif">
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-M41n_-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/iamm41n](https://twitter.com/q_m41n))](https://twitter.com/q_m41n)  [![Linkedin Badge](https://img.shields.io/badge/-nguyen_chinh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin.com/in/nguyen-chinh-54b16a19a/](https://www.linkedin.com/in/nguyenquangchinh/))]([linkedin.com/in/nguyen-chinh-54b16a19a](https://www.linkedin.com/in/nguyenquangchinh/))  
+[![Twitter Badge](https://img.shields.io/badge/-M41n_-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/iamm41n](https://twitter.com/q_m41n))](https://twitter.com/q_m41n)  [![Linkedin Badge](https://img.shields.io/badge/-nguyen_chinh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/nguyenquangchinh/].(https://www.linkedin.com/in/nguyenquangchinh/)]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
