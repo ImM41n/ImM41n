@@ -1,8 +1,8 @@
 <p align="center">
-  <img width="250" height="200" src="https://www.icegif.com/wp-content/uploads/icegif-40.gif">
+  <img width="250" height="200" src="htDashboardtps://www.icegif.com/wp-content/uploads/icegif-40.gif">
 </p>
 
-[Twitter](https://twitter.com/q_m41n)
+Contact me: [Twitter](https://twitter.com/q_m41n)
 [Linked](https://www.linkedin.com/in/nguyenquangchinh/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
